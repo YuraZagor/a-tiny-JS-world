@@ -1,3 +1,5 @@
+[Demo](https://yurazagor.github.io/a-tiny-JS-world/) 
+
 [![MIT Licensed][icon-mit]][license]
 [![Kottans-Frontend][icon-kottans]][kottans-frontend]
 
